@@ -10,6 +10,7 @@ Assignment link: https://docs.google.com/document/d/1TPk3wqxDFi64WV-6hJOkYEzBaAY
 1. Do the below programs in anonymous function & IIFE
 ======================================================================
 */
+// (IIFE not covered yet)
 
 
 // a. Print odd numbers in an array
